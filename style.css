@@ -31,3 +31,7 @@ body{
     100% {transform:translateX(-100%)}
 }
 
+p{
+    color: red;
+}
+
